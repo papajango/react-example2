@@ -1,0 +1,11 @@
+{
+  "name": "react-example2",
+  "version": "1.0.0",
+  "description": "React application",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Dmitriy Kondakov",
+  "license": "MIT"
+}
